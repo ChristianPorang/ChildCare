@@ -1,0 +1,28 @@
+ERROR - 2024-02-27 01:05:43 --> Unknown column 'nama_siswa' in 'field list'
+ERROR - 2024-02-27 01:07:04 --> Unknown column 'nama_siswa' in 'field list'
+ERROR - 2024-02-27 01:09:33 --> Unknown column 'nama_siswa' in 'field list'
+ERROR - 2024-02-27 01:18:18 --> Unknown column 'nama_siswa' in 'field list'
+ERROR - 2024-02-27 01:20:47 --> Unknown column 'nama_siswa' in 'field list'
+CRITICAL - 2024-02-27 04:14:38 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\care\app\Views\tambah_history.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 13, Array)
+#1 C:\xampp\htdocs\care\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\care\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('tambah_history', Array, true)
+#4 C:\xampp\htdocs\care\app\Controllers\Home.php(185): view('tambah_history', Array)
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->tambah_history()
+#6 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#10 {main}
+ERROR - 2024-02-27 04:33:59 --> Column 'jumlah' cannot be null
+CRITICAL - 2024-02-27 04:54:59 --> Invalid file: edit_user.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('edit_user', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(245): view('edit_user', Array)
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->edit_history('4')
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}

@@ -1,0 +1,151 @@
+CRITICAL - 2024-02-25 23:05:04 --> Invalid file: index.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(24): view('index')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-25 23:05:10 --> Invalid file: index.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(24): view('index')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-25 23:05:10 --> Invalid file: index.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(24): view('index')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-25 23:05:11 --> Invalid file: index.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(24): view('index')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-25 23:05:41 --> Invalid file: index.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(24): view('index')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-25 23:06:08 --> Invalid file: index.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(24): view('index')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2024-02-25 23:07:09 --> Invalid file: dashboard.php
+#0 C:\xampp\htdocs\care\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('dashboard.php')
+#1 C:\xampp\htdocs\care\system\Common.php(1089): CodeIgniter\View\View->render('dashboard', Array, true)
+#2 C:\xampp\htdocs\care\app\Controllers\Home.php(25): view('dashboard')
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+ERROR - 2024-02-25 23:21:13 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:21:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(258): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:41:15 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:41:15 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:42:59 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:42:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:43:01 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:43:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:43:19 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:43:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:43:20 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:43:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:43:20 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:43:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:43:20 --> Table 'care.dokter' doesn't exist
+CRITICAL - 2024-02-25 23:43:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(273): App\Models\M_model->tampil('dokter')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->dokter()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2024-02-25 23:56:03 --> Table 'care.tarif/tarif' doesn't exist
+CRITICAL - 2024-02-25 23:56:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\care\app\Controllers\Home.php(152): App\Models\M_model->tampil('tarif/tarif')
+#1 C:\xampp\htdocs\care\system\CodeIgniter.php(832): App\Controllers\Home->tarif()
+#2 C:\xampp\htdocs\care\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\care\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\care\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\care\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
